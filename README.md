@@ -11,9 +11,11 @@ Example projects of how to use the EHCache web page filter. More info about the 
 
 ## Example urls
 The example has three different url:s setup:
-http://localhost:8080/cached/ (cached)
-http://localhost:8080/cached-sub/ (cached)
-http://localhost:8080/uncached/ (not-cached)
+<ul>
+<li>http://localhost:8080/cached/ (cached)</li>
+<li>http://localhost:8080/cached-sub/ (cached)</li>
+<li>http://localhost:8080/uncached/ (not-cached)</li>
+</ul>
 
 The EHCache log is turned on for debug.
 
