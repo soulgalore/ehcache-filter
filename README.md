@@ -1,4 +1,4 @@
-== Example of how to setup EHCache web page filter ==
+# Example of how to setup EHCache web page filter
 
 Example projects of how to use the EHCache web page filter. More info about the EHCache web filter is found here: http://ehcache.org/documentation/modules/web-caching
 
